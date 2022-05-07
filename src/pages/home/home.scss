@@ -1,0 +1,11 @@
+.home {
+  background-color: var(--main-color);
+  overflow: hidden;
+
+  .copy {
+    text-align: center;
+    color: white;
+    font-weight: 500;
+    margin-top: 20px;
+  }
+}
